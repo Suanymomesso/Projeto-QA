@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="700"
+   height="700"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Dark_Green_Arrow_Up.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 350 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 350 : 1"
+       inkscape:persp3d-origin="350 : 233.33333 : 1"
+       id="perspective13" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="815"
+     inkscape:window-width="971"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.66"
+     inkscape:cx="355.88699"
+     inkscape:cy="350"
+     inkscape:window-x="113"
+     inkscape:window-y="50"
+     inkscape:current-layer="svg2" />
+  <g
+     transform="translate(19.99999,28.57142)"
+     id="g4"
+     style="fill:#005600;fill-opacity:1">
+    <path
+       d="M -20,670.71582 C -20,668.85739 329.99229,-29.27271 330.57213,-28.57089 C 332.51762,-26.21611 680.63965,670.88998 679.99913,671.14838 C 679.58076,671.31716 600.70188,637.45746 504.71273,595.90461 L 330.18699,520.35396 L 155.94489,595.89128 C 60.11172,637.43679 -18.680347,671.42858 -19.148608,671.42858 C -19.616868,671.42858 -19.99999,671.10783 -19.99999,670.71582 z "
+       style="fill:#005600;stroke:none;fill-opacity:1"
+       id="path6" />
+  </g>
+</svg>
